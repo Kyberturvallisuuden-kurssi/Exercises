@@ -1,0 +1,13 @@
+\.vscode/
+.idea
+
+Week1/src/
+
+*.log
+!important.log
+*.pcap
+!important.pcap
+*.exe
+!LolClient.exe
+*.pyc
+!important.pyc
