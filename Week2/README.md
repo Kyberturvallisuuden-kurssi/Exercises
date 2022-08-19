@@ -1,8 +1,10 @@
-Introduction to Practical Cyber Security Testing - Week 2
+Introduction to Practical Cyber Security Testing - Week 2: Email and messenger security
 ====
 
 
 ## About the lab
+
+Topic: Social engineering, scamming, cyber crime, DKIM/SPF/DMARC, Spamhaus, best practices, signatures & encryption
 
 TODO: add descriptory text about the lab and this week's topic
 

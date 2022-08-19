@@ -1,8 +1,11 @@
-Introduction to Practical Cyber Security Testing - Week 7
+Introduction to Practical Cyber Security Testing - Week 7: The world of hardware 
 ====
 
 
 ## About the lab
+
+Topic: IoT, cars, console break-ins, firmware, 
+- simple exercise, perhaps with locks? (make seem accessible & possible! ) — thesis work should produce a exciting, yet simple hardware exercise.
 
 TODO: add descriptory text about the lab and this week's topic
 

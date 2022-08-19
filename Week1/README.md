@@ -1,8 +1,10 @@
-Introduction to Practical Cyber Security Testing - Week 1
+Introduction to Practical Cyber Security Testing - Week 1: Password & workstation security
 ====
 
 
 ## About the lab
+
+Topic: Hashes, breaking hashes, John the Ripper, passwordless, SSO, MFA
 
 TODO: add descriptory text about the lab and this week's topic
 

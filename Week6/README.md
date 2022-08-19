@@ -1,8 +1,10 @@
-Introduction to Practical Cyber Security Testing - Week 6
+Introduction to Practical Cyber Security Testing - Week 6: Software development
 ====
 
 
 ## About the lab
+
+Topic: C/I, test clusters, dependencies, supply chain, fuzz test automation — (practice)
 
 TODO: add descriptory text about the lab and this week's topic
 

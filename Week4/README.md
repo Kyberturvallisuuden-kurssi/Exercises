@@ -1,8 +1,10 @@
-Introduction to Practical Cyber Security Testing - Week 4
+Introduction to Practical Cyber Security Testing - Week 4: Network assessment
 ====
 
 
 ## About the lab
+
+Topic: OWASP, burp suite, SQL injection, CVE&CWE
 
 TODO: add descriptory text about the lab and this week's topic
 

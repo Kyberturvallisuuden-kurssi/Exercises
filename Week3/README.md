@@ -1,8 +1,10 @@
-Introduction to Practical Cyber Security Testing - Week 3
+Introduction to Practical Cyber Security Testing - Week 3: Networking environment
 ====
 
 
 ## About the lab
+
+Topic: Wireshark, IPS, Firewalls, nmap, honey pots, shodan, Wi-Fi, virtualisation, cloud
 
 TODO: add descriptory text about the lab and this week's topic
 

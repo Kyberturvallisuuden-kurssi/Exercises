@@ -1,8 +1,10 @@
-Introduction to Practical Cyber Security Testing - Week 5
+Introduction to Practical Cyber Security Testing - Week 5: Software faults
 ====
 
 
 ## About the lab
+
+Topic: Conformance vs. negative testing, unit tests, fuzzing, git — (concepts)
 
 TODO: add descriptory text about the lab and this week's topic
 
