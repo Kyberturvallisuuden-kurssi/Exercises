@@ -1,4 +1,4 @@
-Introduction to Practical Cyber Security Testing - Week 1
+Introduction to Practical Cyber Security Testing - Week 7
 ====
 
 
@@ -40,23 +40,23 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 ---
 
 
-## Task 1: An example of a task with text answer
+## Task 1
 
-### A) What is the most common phrase used as an example in pretty much any programming tutorial?
-```
+### TODO
 
-```
-
-### B) What is it in reverse?
 ```
 
 ```
 
 ---
 
-## Task 2: An example of a task with file as an answer
+## Task 2
 
-You find a text file named `temp.txt` inside the `/src` directory. Write string "1337h4ck0r" to the `/src` directory and return it.
+### TODO
+
+```
+
+```
 
 ---
 
