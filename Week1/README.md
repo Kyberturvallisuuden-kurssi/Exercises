@@ -6,8 +6,6 @@ Introduction to Practical Cyber Security Testing - Week 1
 
 TODO: add descriptory text about the lab and this week's topic
 
-TODO: add topics
-
 
 ## Prerequisites
 
