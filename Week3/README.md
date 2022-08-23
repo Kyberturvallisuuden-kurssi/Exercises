@@ -44,7 +44,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 1
 
-### TODO
+### Analyze traffic with Wireshark and tell about destination of one packet
 
 ```
 
@@ -54,7 +54,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 2
 
-### TODO
+### Install a Wifi Scanner to your computer
 
 ```
 
@@ -64,7 +64,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 3
 
-### TODO
+### Create a honeypot with OWASP Honeypot
 
 ```
 
