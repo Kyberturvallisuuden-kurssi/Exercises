@@ -44,7 +44,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 1
 
-### TODO
+### Signature of message with Python
 
 ```
 
@@ -54,7 +54,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 2
 
-### TODO
+### Agitate phishers with fake usernames and passwords
 
 ```
 
