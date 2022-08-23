@@ -62,7 +62,7 @@ You find a text file named `temp.txt` inside the `/src` directory. Write string 
 
 ---
 
-## Task 3 : Try Multi-Face Authentication with Python
+## Task 3 : Try Multi-Factor Authentication with Python
 
 ### TODO
 
