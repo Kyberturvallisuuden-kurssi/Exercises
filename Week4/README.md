@@ -44,7 +44,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 1
 
-### TODO
+### Build SQL injection detector with Python
 
 ```
 
