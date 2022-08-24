@@ -54,7 +54,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 2
 
-### TODO
+### Find vulnerabilities with IoTGoat
 
 ```
 
