@@ -42,7 +42,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 ---
 
 
-## Task 1
+## Task 1: Fuzz with AFL
 
 ### TODO
 
@@ -52,7 +52,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ---
 
-## Task 2
+## Task 2: Unit test with own Python program
 
 ### TODO
 
@@ -62,7 +62,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ---
 
-## Task 3
+## Task 3: 
 
 ### TODO
 
