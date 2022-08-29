@@ -62,7 +62,7 @@ You find a text file named `temp.txt` inside the `/src` directory. Write string 
 
 ---
 
-## Task 3 : Try Multi-Factor Authentication with Python
+## Task 3: Try Multi-Factor Authentication with Python
 
 ### TODO
 
@@ -72,7 +72,7 @@ You find a text file named `temp.txt` inside the `/src` directory. Write string 
 
 ---
 
-## Task 4 Try to hash the message with Python
+## Task 4: Try to hash the message with Python
 
 ### A) TODO
 ```
@@ -86,7 +86,7 @@ You find a text file named `temp.txt` inside the `/src` directory. Write string 
 
 ---
 
-## Task 5
+## Task 5: Do the passwordless authentication with Python
 
 ### A) TODO
 ```
