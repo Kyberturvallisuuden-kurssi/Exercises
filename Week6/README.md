@@ -22,7 +22,7 @@ TODO: add descriptory text about the lab and this week's topic
 
 <details><summary>Details</summary>
 
-* TODO: what tools or features are required to complete this week's tasks
+* TODO: Raspberry Pi
 
 </details>
 
@@ -42,7 +42,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 ---
 
 
-## Task 1
+## Task 1: Build a test cluster in Raspberry Pi
 
 ### TODO
 
@@ -52,7 +52,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ---
 
-## Task 2
+## Task 2: 
 
 ### TODO
 
