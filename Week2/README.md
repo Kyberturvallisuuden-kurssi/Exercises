@@ -64,7 +64,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 3
 
-### TODO
+### Make a spamlist with Python
 
 ```
 
