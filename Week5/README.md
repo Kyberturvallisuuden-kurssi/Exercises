@@ -62,7 +62,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ---
 
-## Task 3: 
+## Task 3: Fuzzing with Radamsa
 
 ### TODO
 
@@ -72,7 +72,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ---
 
-## Task 4
+## Task 4: Make a git test
 
 ### A) TODO
 ```
@@ -86,7 +86,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ---
 
-## Task 5
+## Task 5: 
 
 ### A) TODO
 ```
