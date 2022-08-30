@@ -13,7 +13,7 @@ TODO: add descriptory text about the lab and this week's topic
 
 <details><summary>Details</summary>
 
-* TODO: describe required knowledge to complete this week's tasks
+* Hashing, authentication
 
 </details>
 
@@ -22,7 +22,7 @@ TODO: add descriptory text about the lab and this week's topic
 
 <details><summary>Details</summary>
 
-* TODO: what tools or features are required to complete this week's tasks
+* John the Ripper
 
 </details>
 
@@ -44,13 +44,10 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 1: Install John the Ripper to your computer and try to crack a password.
 
-### A) What is the most common phrase used as an example in pretty much any programming tutorial?
-```
+John the Ripper can be installed from https://www.openwall.com/john/
 
-```
 
-### B) What is it in reverse?
-```
+### What is the password you cracked?
 
 ```
 
@@ -58,43 +55,33 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 2: Do a Single-sign on with Python
 
-You find a text file named `temp.txt` inside the `/src` directory. Write string "1337h4ck0r" to the `/src` directory and return it.
+```
 
 ---
 
 ## Task 3: Try Multi-Factor Authentication with Python
 
-### TODO
+This task requires Boto3 library
+
+### What is the function that uses boto3?
 
 ```
 
-```
 
 ---
 
 ## Task 4: Try to hash the message with Python
 
-### A) TODO
-```
+### What is the message?
 
 ```
 
-### B) TODO
-```
-
-```
 
 ---
 
 ## Task 5: Do the passwordless authentication with Python
 
-### A) TODO
-```
-
-```
-
-### B) TODO
-```
+## What function did you use for authentication?
 
 ```
 
