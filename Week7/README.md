@@ -53,7 +53,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ---
 
-## Task 2
+## Task 2: Install EMBA firmware analyzer and scan vulnerabilities of the firmware
 
 ### TODO
 
