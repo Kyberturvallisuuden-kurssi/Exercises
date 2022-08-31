@@ -43,7 +43,7 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 ---
 
 
-## Task 1
+## Task 1: Install a BullGuard IoT scanner and scan the network
 
 ### TODO
 
