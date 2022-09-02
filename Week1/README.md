@@ -47,9 +47,6 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 John the Ripper can be installed from https://www.openwall.com/john/
 
 
-### What is the password you cracked?
-
-```
 
 ---
 
@@ -63,7 +60,6 @@ John the Ripper can be installed from https://www.openwall.com/john/
 
 This task requires Boto3 library
 
-### What is the function that uses boto3?
 
 ```
 
