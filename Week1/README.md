@@ -52,7 +52,6 @@ John the Ripper can be installed from https://www.openwall.com/john/
 
 ## Task 2: Do a Single-sign on with Python
 
-```
 
 ---
 
@@ -61,16 +60,11 @@ John the Ripper can be installed from https://www.openwall.com/john/
 This task requires Boto3 library
 
 
-```
-
 
 ---
 
 ## Task 4: Try to hash the message with Python
 
-### What is the message?
-
-```
 
 
 ---
@@ -79,7 +73,6 @@ This task requires Boto3 library
 
 ## What function did you use for authentication?
 
-```
 
 ---
 
