@@ -46,6 +46,8 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ### Build SQL injection detector with Python
 
+Analyse SQL injection, did you find anything?
+
 ```
 
 ```
