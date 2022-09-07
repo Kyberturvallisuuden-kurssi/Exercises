@@ -46,7 +46,11 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 John the Ripper can be installed from https://www.openwall.com/john/
 
-Create a password on a file in a virtual machine.
+The instruction for installing are in GitHub: https://github.com/openwall/john/blob/bleeding-jumbo/doc/INSTALL
+
+Use jumbo source packet for installing.
+
+Crack a password on rockyou.txt file
 
 Which command did you use to crack a password?
 
