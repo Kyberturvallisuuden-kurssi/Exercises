@@ -46,6 +46,8 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ### Analyze traffic with Wireshark and tell about destination of one packet
 
+What was the destination of the packet?
+
 ```
 
 ```
@@ -55,6 +57,8 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 ## Task 2
 
 ### Install a Wifi Scanner to your computer
+
+What was the MAC address of the Wifi?
 
 ```
 
