@@ -56,6 +56,7 @@ Which command did you use to crack a password?
 
 ## Task 2: Do a Single-sign on with Python
 
+What is the 
 
 ---
 
@@ -69,13 +70,15 @@ This task requires Boto3 library
 
 ## Task 4: Try to hash the message with Python
 
+What was the message?
+
 
 
 ---
 
 ## Task 5: Do the passwordless authentication with Python
 
-## What function did you use for authentication?
+What function did you use for authentication?
 
 
 ---
