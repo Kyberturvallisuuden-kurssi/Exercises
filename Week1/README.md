@@ -50,9 +50,18 @@ The instruction for installing are in GitHub: https://github.com/openwall/john/b
 
 Use jumbo source packet for installing.
 
-Crack a password on rockyou.txt file
+Project has rows from /etc/passwd and /etc/shadow files copied from Raspberry Pi OS.
 
-Which command did you use to crack a password?
+Make a combined password file:
+run/unshadow passwd shadow > mypasswd
+
+Download a list about most common passwords:
+rockyou.txt
+
+Give the password list as a command option and password file as a parameter:
+run/john --wordlist=... mypasswd
+
+The answer of the exercise is the cracked password in the mypasswd file.
 
 
 
