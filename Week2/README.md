@@ -46,6 +46,8 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ### Signature of message with Python
 
+What function did you use for signing the message?
+
 ```
 
 ```
