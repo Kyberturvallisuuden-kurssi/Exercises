@@ -68,6 +68,10 @@ What function did you use for signing the message?
 
 ### Make a spamlist with Python
 
+Build a program that checks if the site is on any blocklist.
+
+
+
 ```
 
 ```
