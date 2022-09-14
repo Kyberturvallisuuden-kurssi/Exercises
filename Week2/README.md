@@ -82,13 +82,7 @@ Build a program that checks if the site is on any blocklist.
 
 ## Task 4
 
-### A) TODO
-```
-
-```
-
-### B) TODO
-```
+Securing email with Gnu PGP
 
 ```
 
