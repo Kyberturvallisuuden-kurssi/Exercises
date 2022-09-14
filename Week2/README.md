@@ -68,6 +68,8 @@ What function did you use for signing the message?
 
 ### Make a spamlist with Python
 
+Spamhaus has been a pioneer in fighting spam for over 20 years. It provides a DNS query based API that can be used. It works on the terminal with IP and WWW addressess.
+
 Build a program that checks if the site is on any blocklist.
 
 
