@@ -79,6 +79,8 @@ What was the MAC address of the Wifi?
 ## Task 4
 
 ### Try pfSense firewall in a virtual machine
+
+Return a configuration file as an answer.
 ```
 
 ```
