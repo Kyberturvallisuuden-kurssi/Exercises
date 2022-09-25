@@ -88,7 +88,7 @@ Return a configuration file as an answer.
 
 ## Task 5
 
-Search Panoulu with shodan and return the IP Address
+Search Panoulu with shodan and return one IP address and internet address
 ```
 
 ```
