@@ -88,7 +88,9 @@ Return a configuration file as an answer.
 
 ## Task 5
 
-Search Panoulu with shodan and return one IP address and internet address
+Search servers located in Oulu with shodan and return one IP address and hostname.
+
+It requires a login to use filters.
 ```
 
 ```
