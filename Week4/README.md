@@ -66,7 +66,9 @@ Analyse SQL injection, did you find anything?
 
 ## Task 3
 
-### TODO
+### Install Burp Suite and search vulnerabilities.
+
+Return a screenshot as an answer.
 
 ```
 
