@@ -85,21 +85,10 @@ Return a configuration file as an answer.
 
 ```
 
-### B) TODO
-```
-
-```
-
----
 
 ## Task 5
 
-### A) TODO
-```
-
-```
-
-### B) TODO
+Search Panoulu with shodan and return the IP Address
 ```
 
 ```
