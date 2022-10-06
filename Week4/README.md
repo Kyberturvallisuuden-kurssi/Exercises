@@ -46,7 +46,15 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ### Build SQL injection detector with Python
 
-Analyse SQL injection, did you find anything?
+Create a database with PostgreSQL.
+
+Create a table with user data.
+
+Set up a Python virtual environment.
+
+Build a SQL injection detector.
+
+Return the code as an answer.
 
 ```
 
