@@ -57,11 +57,6 @@ result = get_student_grade('Joe Doe', ?)
 # Exercise 2: fix function  by using query parameters instead of direct query manipulation by strings
 
 
-```
-
-```
-
----
 
 ## Task 2
 
