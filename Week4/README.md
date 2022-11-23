@@ -44,17 +44,18 @@ Task 1 | 1 | TODO: brief task descriptions and what each grade requires
 
 ## Task 1
 
-### Build SQL injection detector with Python
+### SQL injection with Python
+Source: https://realpython.com/prevent-python-sql-injection/ 
 
-Create a database with PostgreSQL.
+Install the required environment following the instructions (postgres.txt)
 
-Create a table with user data.
+Use db.py as a template and do the following changes.
 
-Set up a Python virtual environment.
+# Exercise 1: using sql injection set Joe Doe's grades to 5 in call to get_studen_grade
+result = get_student_grade('Joe Doe', ?)
 
-Build a SQL injection detector.
+# Exercise 2: fix function  by using query parameters instead of direct query manipulation by strings
 
-Return the code as an answer.
 
 ```
 
